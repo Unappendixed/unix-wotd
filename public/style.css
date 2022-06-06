@@ -1,0 +1,26 @@
+body {
+  background: hsl(230, 8%, 10%);
+}
+
+p {
+  font-size: calc(100% + 5vw);
+  font-family: sans-serif;
+  color: hsl(0, 0%, 70%);
+  margin: 0;
+  /* width: max-content; */
+}
+
+a {
+  text-decoration: none;
+}
+
+#unix-time {
+  font-size: calc(100% + 1vw);
+  color: hsl(0, 0%, 50%);
+}
+
+div {
+  margin: 20vh auto;
+  width: min-content;
+  text-align: center;
+}
