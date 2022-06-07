@@ -3,7 +3,7 @@ body {
 }
 
 p {
-  font-size: calc(100% + 5vw);
+  font-size: clamp(2.5rem, 10vw, 5rem);
   font-family: sans-serif;
   color: hsl(0, 0%, 70%);
   margin: 0;
